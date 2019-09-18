@@ -1,6 +1,10 @@
 .footer {
+    position: fixed;
+    display: block;
     background-color: #343a40;
-    bottom: 30px;
-    height: 100px;
+    left: 0px;
+    bottom: 0px;
+    height: 50px;
+    width: 100vw;
     color: white;
 }
